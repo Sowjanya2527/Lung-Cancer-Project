@@ -44,10 +44,5 @@ Detailed metrics are available in `classification_report.txt`.
 ## Conclusion
 The CNN model with Bayesian Optimization has demonstrated strong performance in classifying lung cancer images. The project highlights the impact of hyperparameter tuning on model effectiveness.
 
-## Files Included
-- `accuracy_plot.png`
-- `loss_plot.png`
-- `confusion_matrix.png`
-- `classification_report.txt`
-- `README.md`
+
 
