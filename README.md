@@ -1,4 +1,4 @@
-# Lung Cancer Project
+# Image Data Driven Lung Cancer Classification Using Deep Learning and Optimization algorithm 
 Lung cancer remains one of the leading causes of cancer-related deaths worldwide, making  early and accurate detection crucial for patient survival. This project presents a novel 
 framework that combines deep learning with Bayesian optimization techniques for efficient lung cancer classification. The proposed approach utilizes convolutional neural networks 
 (CNN) optimized through Bayesian hyperparameter tuning to enhance classification accuracy and reduce model training time. The study aims to develop an automated diagnostic system 
