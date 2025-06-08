@@ -20,3 +20,21 @@ This project aims to classify lung cancer images into different stages (malignan
     Matplotlib / Seaborn: Data visualization
     
     Scikit-learn: For metrics evaluation
+
+📈 Key Features
+
+    CNN Model: Extracts features from CT scan images for classification.
+
+    Bayesian Optimization: Fine-tunes hyperparameters like learning rate, batch size, and epochs.
+
+    Early Detection: Classifies lung cancer into three stages: malignant, benign, and normal.
+
+    High Accuracy: The model is optimized for better performance and less training time.
+
+🎯 Project Goals
+
+    Train a deep learning model that can classify lung cancer images based on CT scans.
+
+    Optimize hyperparameters like learning rate, batch size, and epochs using Bayesian Optimization.
+
+    Achieve high accuracy while reducing the computational cost and training time.
