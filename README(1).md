@@ -1,5 +1,5 @@
 
-# Lung Cancer Classification Using CNN and Bayesian Optimization
+# Image Data Driven Lung Cancer Classification Using Deep Learning and Optimization ALgorithm
 
 ## Project Overview
 This project aims to classify lung cancer images using a Convolutional Neural Network (CNN) architecture. To improve model performance, Bayesian Optimization is used for hyperparameter tuning.
