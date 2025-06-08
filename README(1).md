@@ -43,7 +43,8 @@ The model achieved high precision, recall, and F1-score, especially in major cla
 - **F1-score:** 0.94 (macro avg)
 
 Detailed metrics are available in 
-c![Screenshot (38)](https://github.com/user-attachments/assets/c1b639bb-27c3-4a2a-8c26-0685add99c53)
+
+-![Screenshot (38)](https://github.com/user-attachments/assets/c1b639bb-27c3-4a2a-8c26-0685add99c53)
 
 ## Conclusion
 The CNN model with Bayesian Optimization has demonstrated strong performance in classifying lung cancer images. The project highlights the impact of hyperparameter tuning on model effectiveness.
