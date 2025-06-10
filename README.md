@@ -27,13 +27,13 @@ The following hyperparameters were optimized:
 
 ### Accuracy and Loss
 - The training and validation accuracy and loss over epochs are visualized in the attached plots:
-  - ![Screenshot (34)](https://github.com/user-attachments/assets/8afc88db-04bc-4b14-b76e-081e746d5934)
-  - ![Screenshot (35)](https://github.com/user-attachments/assets/cf20e9fb-f6c7-422f-a510-73299d273c75)
+  ![Screenshot (34)](https://github.com/user-attachments/assets/8afc88db-04bc-4b14-b76e-081e746d5934)
+  ![Screenshot (35)](https://github.com/user-attachments/assets/cf20e9fb-f6c7-422f-a510-73299d273c75)
 
   
 ### Confusion Matrix
 - The confusion matrix illustrates the classification performance across different lung cancer classes.
-- ![Screenshot (39)](https://github.com/user-attachments/assets/4a5b6978-e502-465b-826d-6fdd6b02533e)
+![Screenshot (39)](https://github.com/user-attachments/assets/4a5b6978-e502-465b-826d-6fdd6b02533e)
 
 
 ### Classification Report
@@ -44,7 +44,7 @@ The model achieved high precision, recall, and F1-score, especially in major cla
 
 Detailed metrics are available in 
 
--![Screenshot (38)](https://github.com/user-attachments/assets/c1b639bb-27c3-4a2a-8c26-0685add99c53)
+![Screenshot (38)](https://github.com/user-attachments/assets/c1b639bb-27c3-4a2a-8c26-0685add99c53)
 
 ## Conclusion
 The CNN model with Bayesian Optimization has demonstrated strong performance in classifying lung cancer images. The project highlights the impact of hyperparameter tuning on model effectiveness.
